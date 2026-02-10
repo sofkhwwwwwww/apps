@@ -1,0 +1,5 @@
+{
+  "name": "Image Utility",
+  "description": "A versatile utility app that allows users to concatenate text from multiple fields and dynamically load images from URLs, wrapped in a sleek, modern UI.",
+  "requestFramePermissions": []
+}
